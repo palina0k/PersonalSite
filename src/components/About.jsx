@@ -25,7 +25,7 @@ export default function About() {
                     </h6>
                     <h3>Education</h3>
                     <h5>University of California - Davis</h5>
-                    <h6>BS, Computer Science and Engineering | GPA: 3.91/4.0<br/><br/>Expected Graduation: June 2027</h6>
+                    <h6>BS, Computer Science and Engineering | GPA: 3.92/4.0<br/><br/>Expected Graduation: June 2027</h6>
                 </div>
                 <div className="split_half">
                     <h3>Recent Experiences</h3>
@@ -46,7 +46,7 @@ export default function About() {
                     <h4>Project Experience</h4>
                     <h6>
                         <strong>Software Developer</strong> - #include<br/>
-                        <i>October 2024 - Present</i>
+                        <i>October 2024 - December 2025</i>
                         <br/>
                         <br/>
                         <strong>Web Developer</strong> - Google Developer Student Club (GDSC)<br/>
